@@ -379,6 +379,7 @@ ul li:last-child
     padding-bottom: 50px;
     color: #555;
     float: right;
+    width: 100%;
 }
  h1
 {
